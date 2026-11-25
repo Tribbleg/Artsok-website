@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { FaWhatsapp } from "react-icons/fa";
-import sections from "./data/Product.json";
+import sections from "./Data/Product.json";
 
 const WHATSAPP_NUMBER = "2347055754048";
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}`;
