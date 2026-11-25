@@ -1,0 +1,92 @@
+[
+  {
+    "id": "featured",
+    "heading": "Featured Artworks",
+    "artworks": [
+      {
+        "id": "f1",
+        "title": "Creative Wall Design",
+        "artist": "John",
+        "image": "https://artsok.name.ng/img/art1.jpg"
+      },
+      {
+        "id": "f2",
+        "title": "Concept Art",
+        "artist": "Juliet",
+        "image": "https://artsok.name.ng/img/art2.jpg"
+      },
+      {
+        "id": "f3",
+        "title": "Digital Illustration",
+        "artist": "Smith",
+        "image": "https://artsok.name.ng/img/art12.jpg"
+      },
+      {
+        "id": "f4",
+        "title": "Portrait Art",
+        "artist": "Precious",
+        "image": "https://artsok.name.ng/img/art3.jpg"
+      }
+    ]
+  },
+  {
+    "id": "digital",
+    "heading": "Digital Art",
+    "artworks": [
+      {
+        "id": "d1",
+        "title": "Portrait Art",
+        "artist": "Mary",
+        "image": "https://artsok.name.ng/img/art4.jpg"
+      },
+      {
+        "id": "d2",
+        "title": "Mural/Wall Art Design",
+        "artist": "Joseph",
+        "image": "https://artsok.name.ng/img/art5.jpg"
+      },
+      {
+        "id": "d3",
+        "title": "Portrait Art",
+        "artist": "Kofi",
+        "image": "https://artsok.name.ng/img/art6.jpg"
+      },
+      {
+        "id": "d4",
+        "title": "Portrait Art",
+        "artist": "Bello",
+        "image": "https://artsok.name.ng/img/art7.jpg"
+      }
+    ]
+  },
+  {
+    "id": "paintings",
+    "heading": "Paintings",
+    "artworks": [
+      {
+        "id": "p1",
+        "title": "Digital Illustration",
+        "artist": "Rowan Atkinson",
+        "image": "https://artsok.name.ng/img/art%208.jpg"
+      },
+      {
+        "id": "p2",
+        "title": "Traditional Painting / Drawing",
+        "artist": "Russo",
+        "image": "https://artsok.name.ng/img/art%209.jpg"
+      },
+      {
+        "id": "p3",
+        "title": "Portrait Art",
+        "artist": "Eliana",
+        "image": "https://artsok.name.ng/img/art10.jpg"
+      },
+      {
+        "id": "p4",
+        "title": "Canvas Painting",
+        "artist": "Moreno",
+        "image": "https://artsok.name.ng/img/art11.jpg"
+      }
+    ]
+  }
+]
